@@ -63,18 +63,18 @@ Now, when it asks for a password, provide a password that is atleast 3 character
 Now, A folder with the name Safe-Haven will be created at the location provided. To access the files/folders that you hid. Open Safe-Haven and navigate folders from 1-10 based on the password entered.
 Eg : If you password was 157, Open the Safe-Haven folder and open folder 1 and then 5 and then 7. You can find your folder with all the files here.
 
-## Demo
-
-<p align="center">
-    <img src="assets/Demo.gif" alt="Demo" border="0">
-</p>
-
 <p align="center">
     <img src="assets/SS.PNG" alt="SS" border="0">
 </p>
 
 <p align="center">
     <img src="assets/SS2.PNG" alt="SS2" border="0">
+</p>
+
+## Demo
+
+<p align="center">
+    <img src="assets/Demo.gif" alt="Demo" border="0" width = "720px">
 </p>
 
 ## Disclaimer
