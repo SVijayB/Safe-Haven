@@ -74,7 +74,7 @@ Eg : If you password was 157, Open the Safe-Haven folder and open folder 1 and t
 ## Demo
 
 <p align="center">
-    <img src="assets/Demo.gif" alt="Demo" border="0" width = "720px">
+    <img src="assets/Demo.gif" alt="Demo" border="0">
 </p>
 
 ## Disclaimer
