@@ -11,7 +11,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/SVijayB/Safe-Haven.svg)](https://github.com/SVijayB/Safe-Haven/issues)
 [![GitHub contributors](https://img.shields.io/github/contributors/SVijayB/Safe-Haven.svg)](https://github.com/SVijayB/Safe-Haven/graphs/contributors)
 
-[![GitHub license](https://img.shields.io/github/license/SVijayB/Safe-Haven.svg)](https://github.com/SVijayB/Safe-Haven/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/SVijayB/Safe-Haven)](https://github.com/SVijayB/Safe-Haven/blob/master/LICENSE)
 [![GitHub release](https://img.shields.io/github/release/SVijayB/Safe-Haven.svg)](https://github.com/SVijayB/Safe-Haven/releases)
 [![GitHub repo size](https://img.shields.io/github/repo-size/svijayb/Safe-Haven)](https://github.com/SVijayB/Safe-Haven)
 
