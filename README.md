@@ -23,7 +23,7 @@
 - [Motivation](#Motivation)
 - [Installation](#Installation)
 - [Usage](#Usage)
-- [Demo](Demo)
+- [Demo](#Demo)
 - [Disclaimer](#Disclaimer)
 - [Contributing](#Contributing)
 - [License](#License)
