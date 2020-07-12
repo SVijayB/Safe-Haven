@@ -35,7 +35,7 @@ With this application, you can rest knowing that your files are safely hidden aw
 
 **Note** : Safe-Haven only hides your files. It does not secure them.
 
-## Usage
+## Installation
 
 For the latest stable version, head to [Releases](https://github.com/SVijayB/Safe-Haven/releases).
 
@@ -46,6 +46,8 @@ As an alternative, you could also clone the repository using,
 <pre>
 git clone https://github.com/SVijayB/Safe-Haven.git
 </pre>
+
+## Usage
 
 Firstly, Create a folder with all the files you want to hide. Once done,
 
